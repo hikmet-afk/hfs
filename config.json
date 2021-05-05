@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["Sahip Id"],
+        "ACTIVITY_TEXT": "Welcome 🖤 Erdem",
+        "GUILD_ID": "Sunucu Id",
+        "VOICE_CHANNEL": "Ses Kanal Id",
+        "MIN_STAFF_ROLE": "Yetkili Rol Id"
+    },
+    "FILES": {
+        "WELCOME": "ses/welcome.mp3",
+        "STAFF": "ses/yetkiliodaya.mp3"
+    },
+    "TOKEN": "Token"
+}
